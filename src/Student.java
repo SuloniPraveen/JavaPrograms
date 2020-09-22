@@ -9,7 +9,7 @@ class Student {
 }
 class Ans{
     public static void main(String[] args){
-        Student s = new Student("xyz");
+        Student s = new Student("Rita");
         Student a = new Student();
         System.out.println(s.name);
         System.out.println(a.name);
